@@ -183,3 +183,4 @@ buildNumber.properties
 # older plugin install locations
 /plugins
 /web-app/plugins
+.DS_Store
